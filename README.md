@@ -48,11 +48,6 @@ A high-level overview of contemporary ontology engineering methodologies, positi
 
 The **eXtreme Design (XD)** methodology leverages ontology design patterns to create small, reusable, and coherent ontology modules. It supports scalability and reuse and has been applied in large Semantic Web efforts such as DBpedia and Wikidata.
 
-Session focus:
-- Pattern-driven modeling
-- Modularity and reuse
-- Structural clarity vs. expressivity
-
 ---
 
 ### Linked Open Terms (LOT) + Chowlk
@@ -61,10 +56,6 @@ Session focus:
 **Linked Open Terms (LOT)** is a reuse-oriented methodology that guides ontology development from requirements gathering through implementation and publication.  
 This session also introduces **Chowlk**, a visual UML-style modeling framework that generates OWL/Turtle representations.
 
-Session focus:
-- Requirement-driven ontology development
-- Visual modeling to OWL/Turtle
-- Evaluation and documentation workflows
 
 ---
 
@@ -74,10 +65,6 @@ Session focus:
 
 This session applies the **Basic Formal Ontology (BFO)** method, emphasizing realist upper-ontology commitments and strict ontological distinctions.
 
-Session focus:
-- Continuants vs. occurrents
-- Realist modeling constraints
-- Alignment with OBO Foundry practices
 
 ---
 
