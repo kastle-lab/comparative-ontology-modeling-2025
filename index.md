@@ -45,8 +45,3 @@ Ontologies dictate how data are related to each other, acting as the blueprint o
 
 ---
 
-## Past Organizers & Editions
-- **Same Data; Different Model (2023)**, co-located with WWW 2023  
-  - Cogan Shimizu ([MOMo](./sessions/momo/momo.md))  
-  - Torsten Hahmann ([DROD](./sessions/drod/drod.md))  
-  - Hande McGinty Küçük ([KNARM](./sessions/knarm/knarm.md))
