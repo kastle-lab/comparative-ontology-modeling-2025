@@ -39,22 +39,21 @@ All sessions follow a common structure:
 ### Introductory Comparison
 **Presenter:** Davide Di Pierro  
 
-A high-level overview of contemporary ontology engineering methodologies, positioning LOT, XD, BRO, and BFO within the broader literature and motivating methodological choices.
+A high-level overview of contemporary ontology engineering methodologies, positioning LOT, XD and BFO.
 
 ---
 
 ### eXtreme Design (XD)
 **Presenters:** Andrea Giovanni Nuzzolese, Anna Sofia Lippolis  
 
-The **eXtreme Design (XD)** methodology leverages ontology design patterns to create small, reusable, and coherent ontology modules. It supports scalability and reuse and has been applied in large Semantic Web efforts such as DBpedia and Wikidata.
+
 
 ---
 
 ### Linked Open Terms (LOT) + Chowlk
 **Presenter:** María Poveda-Villalón  
 
-**Linked Open Terms (LOT)** is a reuse-oriented methodology that guides ontology development from requirements gathering through implementation and publication.  
-This session also introduces **Chowlk**, a visual UML-style modeling framework that generates OWL/Turtle representations.
+
 
 
 ---
@@ -62,8 +61,6 @@ This session also introduces **Chowlk**, a visual UML-style modeling framework t
 
 ### Basic Formal Ontology (BFO)
 **Presenter:** John Beverly  
-
-This session applies the **Basic Formal Ontology (BFO)** method, emphasizing realist upper-ontology commitments and strict ontological distinctions.
 
 
 ---
