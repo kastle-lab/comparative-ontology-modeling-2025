@@ -12,18 +12,17 @@ Ontologies dictate how data are related to each other, acting as the blueprint o
 
 2. **Session 1 — Linked Open Terms (LOT) + Chowlk**  
    [Session](./sessions/lot/lot.md) (40 minutes)  
-   Requirement-driven ontology development and visual modeling, focusing on reuse, evaluation, and documentation.
+   
 
 3. **Session 2 — eXtreme Design (XD)**  
    [Session](./sessions/xd/xd.md) (40 minutes)  
-   Pattern-based ontology construction emphasizing modularity, reuse, and scalability.
+  
 
 4. **Break / Informal Discussion** (10 minutes)
 
 5. **Session 3 — Basic Formal Ontology (BFO)**  
    [Session](./sessions/bfo/bfo.md) (40 minutes)  
-   Realist upper-ontology modeling focusing on ontological distinctions, constraints, and alignment with OBO Foundry principles.
-
+   
 6. **Comparative Analysis, Embeddings & Discussion** (30 minutes)  
    Knowledge graph embeddings, dimensionality reduction (t-SNE / UMAP) visualization of results, and guided discussion of methodological trade-offs.
 
